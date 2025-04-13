@@ -1,4 +1,4 @@
-# magic-ui
+# Magic-UI
 
 # ✨ AwesomeGPT Tool
 
