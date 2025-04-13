@@ -11,6 +11,6 @@ A lightweight, open-source CLI tool that gives you instant GPT-4 responses in yo
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/YOUR_USER/awesome-gpt-tool
+git clone https://github.com/becandev/awesome-gpt-tool
 cd awesome-gpt-tool
 npm install
